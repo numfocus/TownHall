@@ -1,0 +1,136 @@
+# Community questions and answers during NumFOCUS Town Hall 2024
+
+*Questions gathered and answers added/transcribed by the NumFOCUS community during the meeting*
+
+- **Funding**
+    - *I’d welcome a small presentation on current income and expenses.  I’m curious about corporate donations direct to NumFOCUS, those targeting projects, the PyData conference series, staffing costs, etc.*
+        - On [annual report](https://ir22.numfocus.org) this is broken down by restricted for projects versus unrestricted for NF to use for other purposes
+        - 2022:
+            Corporate Donations: $1,355,848
+            Project Restricted: $605,641
+            Unrestricted: $750,207
+            Individual Donations: $129,961
+            Project Restricted: $54,872
+            Unrestricted: $75,088
+    - *255%: This is grant money raised by the projects?*
+        - This is all income coming in from all sources
+        - Big source is grants, mostly restricted for specific projects and uses
+        - Corporate donations are another source
+        - Individual donations
+        - Events
+    - *What kind of needs are being funded by grants?*
+    - *Feel free to pass on this question if it’s sensitive, but what is the current amount of revenue from corporate sponsorships?*
+- **Hiring and staff**
+    - *How many staff members live outside the US/Canada?*
+    - *How are decisions made as to whether to onboard new people to NumFOCUS?*
+        - Leah: Decided on an operational level by Leah with input from the board and advisory council
+            - Sometimes it makes more sense to automate rather than bringing in a new staff member
+            - Sometimes it makes sense to outsource, use consultants, use contractors, etc.
+            - Its clear in the areas where we really need someone we can no longer manage without an in house person
+        - Travis: So who actually makes the decisions? Who's accountable for that?
+            - Leah ultimately I make the decisions, consulting with the staff and board, taking input from lots of people
+        - Travis: Thanks, was just trying to understand the process for this.
+            - Leah make decision but brings it to the board and sees what's feasible wrt the budget
+            - For past 11 years have always met budget and never been in the red, have a reserve just in case
+        - Travis: Reason I'm asking is seeing who's accountable to help that person succeed. Thanks!
+    - *How are decisions made as to what services to offer to projects?*
+- **Governance**
+    - **Strategic direction**
+        - *How are decisions made about expanding / refining the scope of NumFOCUS?*
+            - Idea is to have a technical advisory board to represent projects while allowing administrative board to run the business side of NF
+            - Administrative part will meet less often and go more into the background
+            - TAB will have a more active day to day role in helping guide NF
+        - *How will be the future direction and strategic goals of NumFOCUS be set? The Board, the new TAB, staff, community input?*
+    - **Board**
+        - *How much involvement does the board have in day-to-day operations?*
+        - *How many project members are currently on the board?*
+        - *What are the biggest challenges the board is facing right now?*
+            - Katrina: It’s been challenging the last few years.  I think having enough time and money to do what people ask.  I’m hoping that changing our governance will solve a lot of the time/capacity problems, and I’m hoping the additional funding vehicles like the c6 will help the money issues.
+        - *What feedback / accountability mechanisms exist for the board and management?*
+        - *What training mechanisms are available for the board and management?*
+    - **Bylaws**
+        - *Doesn’t NumFOCUS have legal counsel to amend and potentially restate the bylaws?*
+        - *Will this new governance structure require new NumFOCUS bylaws? Could there be community feedback on these bylaws?*
+            - A: Will need to iron out those details after electing the new board members
+            - Leah: If someone externally would like to work on bylaws we would welcome volunteers!
+- **501\(c)6 process**
+    - *501\(c)6 arm is aimed to make NumFOCUS easier to invest in, do we know what the other main blockers to funding are?*
+    - How does the Open Source Scientific Software Alliance relate to other possibly similar endeavors (e.g. The Open Source Initiative)?*
+    - What is the current breakdown of corporate donations vs grants?  Who are the primary donors today?  Are there specific opportunities that we've lost due to the 501c3 status?
+    - *Can individual projects create per-project membership plans?*
+    - *Could you please address the individual-project memberships question?*
+    - *OK, can NumFOCUS membership be restricted to a particular project?*
+    - *501\(c)(6): this is like Linux Foundation, right?*
+        - 501\(c)6 inspired by how other organizations have been successful for this
+        - First initial push is to go after initial funding with it
+        - After it has been established we can look at how to apply it
+        - Just to clarify, 501\(c)6 is a professional member organization and purpose is to support those members
+            - Projects will be members as well as sponsors
+            - Projects can decide to join and have a say in governance
+        - Inspired by other orgs but also looking to do some new things that others haven't yet that could benefit our projects more directly
+    - *How does money actually flow back to projects (with the 501c6)?*
+        - If a funding source actually donates to a project, that money goes to the project minus NF overhead
+        - If its a general donation, can go to SDG fund or help support other NF operations
+    - *Do we have potential partners lined up for the 501\(c)(6)?*
+        - A (Katrina Riehl): We will circle back around to those who have expressed interest, but this is still a new idea.  You all are the firsts to hear about it.
+    - *What’s the overhead look like if we bring in grants to our projects with the c6? Same as the c3?*
+    - *Considering one of the main goals of establishing a (c)6 is fundraising, what would the main focus of this be? Projects, community at large, NumFOCUS sustainability?*
+    - *Would the 501(c)6 make it easier to develop government funding channels?*
+- **Elections**
+    - *How are voting membership/rights/eligibility be decided?*
+        - Will take names from the community and then vet them
+        - Fiscally sponsored projects will get more votes than a committee or an affiliated project
+        - Will then use an online election system (using ranked choice?) and will select the top performing candidates to be on the board
+        - Moving forward though, the election committee will decide more specifics on how it will work in the future
+        - May also reserve seats on administrative board for people like a lawyer and an accountant
+        - Will need to clearly define this in the bylaws, which will be driven by the input of the volunteer election committee
+    - *Are elections for the TAB, or also for the existing board members cycling down?*
+        - Want to get into a yearly election cycle so that it isn't as much of a concern for board members "falling off" over time
+    - *It sounded like voter population is focused on open source projects, but I’m not sure if it includes representation from PyData conference organisers and/or PyData chapters. Does it?*
+    - *How will voting eligibility be determined?*
+    - *I think I heard Katrina say something about voting being related to the amount of influence projects should have in the community. Does that mean some projects will have more gravity than others in the voting process?*
+        - A: Yes, we are giving more votes to fiscally sponsored projects.
+        - Q:Do All fiscally sponsored projects have the same number of votes?
+        - A: But it is not based on the size of the fiscally sponsored project vs another, same votes for all
+    - *We have a few projects tied to specific organisations or folks on multiple projects, are you also taking this into consideration?*
+        - This will be decided by election committee and by projects/orgs themselves
+    - *Would like to represent the larger global PyData community rather than just that in the US?*
+        - That's mostly up to projects and organizations to decide who and how gets votes
+        - Also ask candidates about who and what they represent in the questionnaire they answer when nominated as a candidate
+- **AI**
+    - *Questions on the AI position of NF, is this a NF position, project position, and how to projects participate?*
+    - OSSci has currently been a part of this
+        - Will pass along opportunities to projects
+    - Jon Star: AI alliance is still spinning up
+        - Sitting in on conversation and looking for opportunities to plug NF projects into the alliance
+        - Figuring out how to develop NF AI strategy as well
+        - Reach out to NF staff if you have views on that, or we'll reach out
+    - Alexy Khrabrov: Leads NF OSSci side of AI alliance
+        - AI alliance is supposed to be alliance of builders
+        - Want to bring more scientific projects into the fold
+    - To clarify, there's AI alliance which NF isn't currently part of, other part is NF's AI position
+        - Will put out a survey to help get project's input on what NF's stance on AI should be
+        - A lot of skepticism from projects on whether AI would align with their interests as a scientific computing project
+    - Logan: NF serves as a sort of "conglomerate" to channel interest from the corperate world to direct funding to projects, particularly projects supporting AI ecosystem
+- **Infrastructure**
+    - *I’m a little worried about the expansion in build/test infra (this is something projects can do themselves) and in  development staff (previously not too successful as far as I know). Key issues are more in operations, contracting, finance, transparency, etc. - and those areas have not been touched on. Can you please comment on that?*
+    - *Tell us more about the infrastructure committee and how that was decided?*
+        - Different projects had different needs
+            - Some needed specific infrastructure support on their existing projects
+            - Some needed funding for specific infrastructure needs (computers, servers, etc)
+            - Another big need was support for performance and benchmarking services
+            - Let Andy Terrel know if your project has specific needs
+        - Did bring on a part time contractor for doing IT, found this a valuable resources and want to have a better handle on making those resources available to projects
+- **Misc**
+    - *Are there plans to implement some sort of ticketing system to track/manage requests from projects to the NumFOCUS team?*
+        - Answered during the presentation
+    - *Given the number of awesome projects, are there any plans to have a NumFOCUS podcast? Where each week you interview a package and share what it takes to run such a project, and where it is going.*
+        - A (Jonathan Starr): @gareth podcast wheels are in motion! What would you want to have in one?
+    - *What is NumFOCUS status in Europe?*
+        - Have a bank account set up and volunteer organization France as of two years ago?
+        - Need to find an EU based accountant that we can trust with a reasonable trust to manage the bank account, taxes, VAT and transactions
+        - A (Sylvain Corlay): We have the organisation set up, and a quote for an accountant.
+        - Will allow us to view the account but will not allow the finance team to do anything with the funds
+        - Also thinking of setting up a branch in the Netherlands, have documentation about halfway finished for that
+        - Can do transactions but not actively pursuing EU based donations to this account until we can find an accountant to manage it
+        - Will come up with another plan if this doesn't work
